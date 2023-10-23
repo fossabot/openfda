@@ -6,6 +6,8 @@ openFDA is a research project to provide open APIs, raw data downloads, document
 *Please note: Do not rely on openFDA to make decisions regarding medical care. Always speak to your health provider about the risks and benefits of FDA-regulated products. We may limit or otherwise restrict your access to the API in line with our [Terms of Service](https://open.fda.gov/terms/).*
 
 # Contents
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falniswar19%2Fopenfda.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falniswar19%2Fopenfda?ref=badge_shield)
+
 
 This repository contains the code which powers all of the `api.fda.gov` end points:
 
@@ -60,3 +62,7 @@ Clone the repository with `git clone https://github.com/FDA/openfda.git --config
 # Running unit tests
 
 `docker-compose --profile test up test` will run Python unit tests.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falniswar19%2Fopenfda.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falniswar19%2Fopenfda?ref=badge_large)
